@@ -19,3 +19,13 @@ a:visited {
   color: unset;
   text-decoration: none;
 }
+
+.dsmeta-container {
+  width: 100%;   /* largura por padrao */
+  max-width: 900px;   /* largura maxima vai ser */
+  margin: 0 auto;   /* alinhar o DIV ao centro */
+}
+
+#sales {
+  padding: 40px 10px;   /* espacamento, 1a vertical 2a laterais*/
+}
